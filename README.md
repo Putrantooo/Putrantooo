@@ -1,4 +1,4 @@
-# Hi there ðŸ‘‹ , I'm Bagus!
+# Hi there ðŸ‘‹ , I'm Gema!
 Currently looking for a job, I like to learn new things in programming like Php, Java, Python.
 
 ### Tools:
@@ -21,10 +21,6 @@ Currently looking for a job, I like to learn new things in programming like Php,
     - ðŸ˜„ Pronouns: He/Him </br>
     - âš¡ Fun fact: ... </br>
 </details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Putrantooo&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putrantooo&layout=compact" height=180 />
-</p>
 
 ### Let's connect!
 <p>
@@ -33,7 +29,7 @@ Currently looking for a job, I like to learn new things in programming like Php,
 </p>
 
 <!--
-**bagusfe/bagusfe** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Putrantooo/Putrantooo** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
